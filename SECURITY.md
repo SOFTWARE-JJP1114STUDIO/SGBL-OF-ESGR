@@ -38,4 +38,20 @@ Veuillez fournir autant de détails que possible, y compris des descriptions dé
 - Nous créditerons publiquement les individus ou les organisations ayant signalé des vulnérabilités valides et contribué à améliorer la sécurité de notre logiciel.
 - Si vous le souhaitez, nous pouvons également convenir d'une divulgation responsable pour protéger vos intérêts.
 
-Nous apprécions votre engagement envers la sécurité de notre logiciel "SGBL OF ESGR" et votre aide pour garantir une expérience utilisateur sûre et sécurisée.
+### Engagements en Matière de Sécurité
+
+Chez JJ-P1114 STUDIO, nous considérons la sécurité comme une priorité absolue. Nous nous engageons à garantir que notre logiciel "SGBL OF ESGR" offre un niveau de sécurité optimal pour nos utilisateurs.
+
+#### Tests de Sécurité
+
+Avant chaque déploiement, notre logiciel subit des tests de sécurité approfondis pour détecter et corriger toute faille potentielle. Nous utilisons des outils de test de vulnérabilités avancés et des techniques d'analyse statique et dynamique pour garantir la robustesse de notre code.
+
+#### Collaboration avec la Communauté
+
+Nous encourageons activement la collaboration avec la communauté de la sécurité informatique. En travaillant ensemble, nous pouvons identifier et résoudre les problèmes de sécurité plus rapidement, ce qui profite à l'ensemble de la communauté des utilisateurs.
+
+### Votre Rôle dans la Sécurité
+
+Nous encourageons tous les utilisateurs de notre logiciel à jouer un rôle actif dans la sécurité. Si vous découvrez une vulnérabilité ou avez des préoccupations concernant la sécurité, n'hésitez pas à nous contacter. Votre contribution est essentielle pour garantir que notre logiciel reste sûr et fiable pour tous.
+
+Nous vous remercions de votre engagement envers la sécurité de notre logiciel "SGBL OF ESGR".
