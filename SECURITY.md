@@ -12,13 +12,21 @@ Utilisez cette section pour informer les utilisateurs des versions de votre proj
 
 Utilisez cette section pour indiquer aux personnes comment signaler une vulnérabilité.
 
-Veuillez leur indiquer où se rendre, à quelle fréquence elles peuvent s'attendre à recevoir une mise à jour sur une vulnérabilité signalée, à quoi s'attendre si la vulnérabilité est acceptée ou refusée, etc.
-
 ### Comment Signaler
 
-Pour signaler une vulnérabilité, veuillez remplir le [Formulaire de Signalement de Vulnérabilité](https://form.jotform.com/jjp1114studio/sgbl-of-esgr_vulnerability). Vous pouvez également envoyer un e-mail à notre équipe de sécurité à l'adresse suivante : contact.jjp1114studio@gmail.com
+Pour signaler une vulnérabilité dans notre logiciel "SGBL OF ESGR", nous vous encourageons à suivre les étapes suivantes :
 
-Veuillez fournir autant de détails que possible, y compris des descriptions détaillées, des étapes de reproduction, et des captures d'écran si possible.
+1. **Formulaire de Signalement de Vulnérabilité**: Utilisez le [Formulaire de Signalement de Vulnérabilité](https://form.jotform.com/jjp1114studio/sgbl-of-esgr_vulnerability) pour soumettre les détails de la vulnérabilité que vous avez identifiée. Ce formulaire est conçu pour recueillir des informations pertinentes sur la vulnérabilité, telles que sa nature, son impact potentiel, et les étapes de reproduction.
+
+2. **Contact par E-mail**: Vous pouvez également signaler une vulnérabilité en envoyant un e-mail à notre équipe de sécurité à l'adresse suivante : contact.jjp1114studio@gmail.com. Assurez-vous de fournir autant de détails que possible sur la vulnérabilité pour nous aider à évaluer et à corriger le problème efficacement.
+
+3. **Confirmation de Réception**: Dès réception de votre signalement, notre équipe de sécurité examinera la vulnérabilité signalée. Nous vous enverrons une confirmation de réception dans un délai de 72 heures ouvrables pour vous informer que nous avons bien reçu votre rapport.
+
+4. **Évaluation et Gestion**: Notre équipe de sécurité évaluera la vulnérabilité pour déterminer son impact et sa validité. Nous prendrons ensuite les mesures appropriées pour corriger la vulnérabilité dans les versions futures de notre logiciel.
+
+5. **Mises à Jour sur l'État du Signalement**: Nous nous engageons à vous fournir des mises à jour régulières sur l'état de votre signalement de vulnérabilité. Vous serez informé de l'avancement de la résolution du problème et des délais estimés pour la publication des correctifs.
+
+6. **Divulgation Publique**: Une fois la vulnérabilité corrigée, nous divulguerons publiquement les détails de la vulnérabilité, y compris la manière dont elle a été corrigée. Nous croyons en la transparence et en la responsabilité en matière de sécurité, et nous sommes engagés à informer notre communauté d'utilisateurs des problèmes de sécurité et de leurs solutions.
 
 ### Processus de Gestion des Vulnérabilités
 
