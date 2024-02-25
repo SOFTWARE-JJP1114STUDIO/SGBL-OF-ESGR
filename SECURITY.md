@@ -23,7 +23,7 @@ Vous pouvez également envoyer un e-mail à notre équipe de sécurité à l'adr
 ### Processus de Gestion des Vulnérabilités
 
 - Nous examinerons les rapports de vulnérabilité dès que possible.
-- Vous recevrez une confirmation de réception de votre rapport dans un délai de 48 heures ouvrables.
+- Vous recevrez une confirmation de réception de votre rapport dans un délai de 72 heures ouvrables.
 - Notre équipe de sécurité évaluera la vulnérabilité signalée et déterminera son impact et sa validité.
 - Une fois évaluée, nous vous tiendrons informé de l'état de votre rapport dans un délai raisonnable.
 
