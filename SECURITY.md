@@ -2,15 +2,13 @@
 
 ## Versions Supportées
 
-Utilisez cette section pour informer les utilisateurs des versions de votre projet actuellement prises en charge avec des mises à jour de sécurité.
+Versions du logiciel actuellement prises en charge par les mises à jour de sécurité.
 
 | Version | Prise en charge   |
 | ------- | ------------------ |
 | PRE.0.0.1.0   | :x: |
 
 ## Signalement d'une Vulnérabilité
-
-Utilisez cette section pour indiquer aux personnes comment signaler une vulnérabilité.
 
 ### Comment Signaler
 
