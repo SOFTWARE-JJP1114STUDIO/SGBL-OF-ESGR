@@ -16,9 +16,9 @@ Veuillez leur indiquer où se rendre, à quelle fréquence elles peuvent s'atten
 
 ### Comment Signaler
 
-Pour signaler une vulnérabilité, veuillez remplir le formulaire à l'adresse suivante : [Formulaire de Signalement de Vulnérabilité](https://form.jotform.com/jjp1114studio/sgbl-of-esgr_vulnerability)
+Pour signaler une vulnérabilité, veuillez remplir le [Formulaire de Signalement de Vulnérabilité](https://form.jotform.com/jjp1114studio/sgbl-of-esgr_vulnerability). Vous pouvez également envoyer un e-mail à notre équipe de sécurité à l'adresse suivante : contact.jjp1114studio@gmail.com
 
-Vous pouvez également envoyer un e-mail à notre équipe de sécurité à l'adresse suivante : contact.jjp1114studio@gmail.com
+Veuillez fournir autant de détails que possible, y compris des descriptions détaillées, des étapes de reproduction, et des captures d'écran si possible.
 
 ### Processus de Gestion des Vulnérabilités
 
@@ -38,5 +38,4 @@ Vous pouvez également envoyer un e-mail à notre équipe de sécurité à l'adr
 - Nous créditerons publiquement les individus ou les organisations ayant signalé des vulnérabilités valides et contribué à améliorer la sécurité de notre logiciel.
 - Si vous le souhaitez, nous pouvons également convenir d'une divulgation responsable pour protéger vos intérêts.
 
-Nous vous remercions de votre contribution à la sécurité de notre logiciel "SGBL OF ESGR".
-
+Nous apprécions votre engagement envers la sécurité de notre logiciel "SGBL OF ESGR" et votre aide pour garantir une expérience utilisateur sûre et sécurisée.
