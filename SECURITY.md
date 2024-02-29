@@ -10,7 +10,7 @@ Versions du logiciel actuellement prises en charge par les mises à jour de séc
 | [BETA.0.0.2.0](https://github.com/SOFTWARE-JJP1114STUDIO/SGBL-OF-ESGR/releases/tag/BETA.0.0.2.0)   | :x: |
 | [BETA.0.0.2.2](https://github.com/SOFTWARE-JJP1114STUDIO/SGBL-OF-ESGR/releases/tag/BETA.0.0.2.2)   | :x: |
 | [0.0.2.2](https://github.com/SOFTWARE-JJP1114STUDIO/SGBL-OF-ESGR/releases/tag/0.0.2.2)   | :white_check_mark: |
-| [0.0.2.2.1](https://github.com/SOFTWARE-JJP1114STUDIO/SGBL-OF-ESGR/releases/tag/BETA.0.0.2.2.1)   | :white_check_mark: |
+| [0.0.2.2.1](https://github.com/SOFTWARE-JJP1114STUDIO/SGBL-OF-ESGR/releases/tag/0.0.2.2.1)   | :white_check_mark: |
 
 ## Signalement d'une Vulnérabilité
 
