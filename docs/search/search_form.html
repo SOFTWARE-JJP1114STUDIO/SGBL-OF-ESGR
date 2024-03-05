@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="author" content="colorlib.com">
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet" />
+    <link href="assets/css/main.css" rel="stylesheet" />
+    <title>Recherche de Livres</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://esgr.csspo.gouv.qc.ca/wp-content/themes/ecoles.csspo.gouv.qc.ca/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://esgr.csspo.gouv.qc.ca/wp-content/themes/ecoles.csspo.gouv.qc.ca/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://esgr.csspo.gouv.qc.ca/wp-content/themes/ecoles.csspo.gouv.qc.ca/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://esgr.csspo.gouv.qc.ca/wp-content/themes/ecoles.csspo.gouv.qc.ca/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://esgr.csspo.gouv.qc.ca/wp-content/themes/ecoles.csspo.gouv.qc.ca/assets/favicon/safari-pinned-tab.svg" color="#00a6e9">
+  </head>
+  <body>
+    <div class="s131">
+      <video autoplay muted loop id="video-bg">
+        <source src="assets/video/background.mp4" type="video/mp4">
+        <!-- Ajoutez d'autres sources ici pour la compatibilité avec différents formats de vidéo -->
+        Your browser does not support HTML5 video.
+      </video>
+      <form action="search_results.php" method="POST">
+        <div class="inner-form">
+          <div class="input-field first-wrap">
+            <input id="search" type="text" name="search_query" placeholder="Rechercher par nom de livre" required />
+          </div>
+          <div class="input-field second-wrap">
+            <div class="input-select">
+              <select data-trigger="" name="category">
+                <option value="">Toutes les catégories</option>
+                <option value="Avanture">Avanture</option>   
+                <option value="Classique">Classique</option>   
+                <option value="Contes">Contes</option>   
+                <option value="Divers">Divers</option>   
+                <option value="Fantastique">Fantastique</option>   
+                <option value="Historique">Historique</option>   
+                <option value="Horreur">Horreur</option>   
+                <option value="Humour">Humour</option>   
+                <option value="Jeunesse">Jeunesse</option>   
+                <option value="Livre anglais">Livre anglais</option>   
+                <option value="Manga">Manga</option>   
+                <option value="Policier">Policier</option>   
+                <option value="Romance">Romance</option>   
+                <option value="Science-fiction">Science-fiction</option>   
+                <option value="Sportif">Sportif</option>   
+                <option value="Surnaturel">Surnaturel</option>   
+                <option value="Suspence">Suspence</option>   
+                <option value="Tranche de vie">Tranche de vie</option>
+              </select>
+            </div>
+          </div>
+          <div class="input-field third-wrap">
+            <button class="btn-search" type="submit">RECHERCHER</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <script src="assets/js/extention/choices.js"></script>
+    <script>
+      const choices = new Choices('[data-trigger]',
+      {
+        searchEnabled: false
+      });
+
+    </script>
+  </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
