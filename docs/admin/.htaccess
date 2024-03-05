@@ -1,4 +1,0 @@
-AuthGroupFile /dev/null
-AuthUserFile /home/aimbfgnd/domains/sgbl-of-esgr.jj-p1114studio.elementfx.com/.htpasswd/public_html/admin/.htpasswd
-AuthName "Admin"
-ErrorDocument 401 "Unauthorized Access"
