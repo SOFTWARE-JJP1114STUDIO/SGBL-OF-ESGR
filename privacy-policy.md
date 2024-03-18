@@ -1,5 +1,3 @@
-![Alt Text](https://sgbl-of-esgr.jj-p1114studio.elementfx.com/assets/gif/Splash.02_SGBL-OF-ESGR.gif)
-
 # PRIVACY POLICY
 
 **Last updated May 01, 2024**
